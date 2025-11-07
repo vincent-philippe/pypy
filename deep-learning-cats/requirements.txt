@@ -1,0 +1,4 @@
+tensorflow
+numpy
+scikit-image
+tf_keras
